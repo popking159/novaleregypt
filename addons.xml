@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>\
+    #########test###########
+        <plugins cont = "test plugins">
+        <plugin name = "Levi45-addonsmanager_3.4_all.ipk">
+        <url>http://levi45.spdns.eu/Addons/Levi45AddonsPanel/Levi45/enigma2-plugin-extensions-levi45-addonsmanager_3.4_all.ipk</url>
+        </plugin>
+        <plugin name = "petazetas_1.1_all.ipk">
+        <url>https://raw.githubusercontent.com/popking159/novaleregypt/main/enigma2-plugin-extensions-petazetas_1.1_all.ipk</url>
+        </plugin>
+        <plugin name = "keyadder_4.4_all.ipk">
+        <url>https://raw.githubusercontent.com/popking159/novaleregypt/main/enigma2-plugin-extensions-keyadder_4.4_all.ipk</url>
+        </plugin>
+		<plugin name = "iptosat_1.8_all.ipk">
+        <url>https://raw.githubusercontent.com/popking159/novaleregypt/main/enigma2-plugin-extensions-iptosat_1.8_all.ipk</url>
+        </plugin>
+		<plugin name = "alternativesoftcammanager_all.ipk">
+		<url>https://raw.githubusercontent.com/popking159/novaleregypt/main/enigma2-plugin-extensions-alternativesoftcammanager_all.ipk</url>
+		</plugin>
+		<plugin name = "Skin-ORANGE-SKY-FHD-By-Muaath.ipk">
+		<url>https://raw.githubusercontent.com/popking159/novaleregypt/main/Skin-ORANGE-SKY-FHD-By-Muaath.ipk</url>
+		</plugin>
+		</plugins>
+</xml>
