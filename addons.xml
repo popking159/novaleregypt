@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>\
+    #########Levi45_Arm_Mips_Multicam###########
+        <plugins cont = "Levi45_Arm_Mips_Multicam And Addons Panel">
+        <plugin name = "Levi45-addonsmanager_3.4_all.ipk">
+        <url>http://levi45.spdns.eu/Addons/Levi45AddonsPanel/Levi45/enigma2-plugin-extensions-levi45-addonsmanager_3.4_all.ipk</url>
+        </plugin>
+        <plugin name = "Levi45multicamManager-For-All-8.2_all.ipk">
+        <url>http://levi45.spdns.eu/Addons/Levi45AddonsPanel/Levi45/enigma2-plugin-extensions-levi45multicammanager_8.2_all.ipk</url>
+        </plugin>
+        <plugin name = "Levi45multicammanager-For-All-Dreambox_8.2_all.ipk">
+        <url>http://levi45.spdns.eu/Addons/Levi45AddonsPanel/Levi45/enigma2-plugin-extensions-levi45multicammanager-dreambox_8.2_all.ipk</url>
+        </plugin>
+		<plugin name = "astra-sm_0.2-r0.ipk">
+        <url>http://11.vip14.xyz/p/astra-sm_0.2-r0.ipk</url>
+        </plugin>
+		<plugin name = "alternativesoftcammanager">
+		<url>https://raw.githubusercontent.com/popking159/novaleregypt/main/enigma2-plugin-extensions-alternativesoftcammanager_all.ipk</url>
+		</plugin>
+		</plugins>
+</xml>
